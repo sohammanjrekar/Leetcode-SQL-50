@@ -10,58 +10,59 @@ Explore and master SQL with this repository featuring solutions to 50 LeetCode S
 
 ### Challenges Overview
 
-| #      | Title                                | Difficulty | Solution                       |
-|--------|--------------------------------------|------------|--------------------------------|
-| 1757   | Recyclable and Low Fat Products       | Easy       | [Solution](./solutions/1757)   |
-| 584    | Find Customer Referee                 | Easy       | [Solution](./solutions/584)    |
-| 595    | Big Countries                        | Easy       | [Solution](./solutions/595)    |
-| 1148   | Article Views I                      | Easy       | [Solution](./solutions/1148)   |
-| 1683   | Invalid Tweets                       | Easy       | [Solution](./solutions/1683)   |
-| 1378   | Basic Joins                          | Easy       | [Solution](./solutions/1378)   |
-| 1068   | Product Sales Analysis I              | Easy       | [Solution](./solutions/1068)   |
-| 1581   | Customer Who Visited but Did Not Make Any Transactions | Easy | [Solution](./solutions/1581) |
-| 197    | Rising Temperature                   | Easy       | [Solution](./solutions/197)    |
-| 1661   | Average Time of Process per Machine   | Easy       | [Solution](./solutions/1661)   |
-| 577    | Employee Bonus                       | Easy       | [Solution](./solutions/577)    |
-| 1280   | Students and Examinations            | Medium     | [Solution](./solutions/1280)   |
-| 570    | Managers with at Least 5 Direct Reports | Medium   | [Solution](./solutions/570)    |
-| 1934   | Confirmation Rate                    | Easy       | [Solution](./solutions/1934)   |
-| 620    | Average Selling Price                | Easy       | [Solution](./solutions/620)    |
-| 1251   | Project Employees I                  | Easy       | [Solution](./solutions/1251)   |
-| 1075   | Percentage of Users Attended a Contest | Easy      | [Solution](./solutions/1075)   |
-| 1633   | Queries Quality and Percentage       | Easy       | [Solution](./solutions/1633)   |
-| 1211   | Monthly Transactions I               | Medium     | [Solution](./solutions/1211)   |
-| 1193   | Immediate Food Delivery II           | Medium     | [Solution](./solutions/1193)   |
-| 1174   | Game Play Analysis IV                | Medium     | [Solution](./solutions/1174)   |
-| 550    | Sorting and Grouping                 | Easy       | [Solution](./solutions/550)    |
-| 2356   | User Activity for the Past 30 Days I | Easy       | [Solution](./solutions/2356)   |
-| 1141   | Product Sales Analysis III           | Medium     | [Solution](./solutions/1141)   |
-| 1070   | Classes More Than 5 Students         | Easy       | [Solution](./solutions/1070)   |
-| 596    | Find Followers Count                 | Easy       | [Solution](./solutions/596)    |
-| 1729   | Biggest Single Number                | Easy       | [Solution](./solutions/1729)   |
-| 619    | Customers Who Bought All Products    | Medium     | [Solution](./solutions/619)    |
-| 1045   | Advanced Select and Joins            | Easy       | [Solution](./solutions/1045)   |
-| 1731   | Primary Department for Each Employee | Easy       | [Solution](./solutions/1731)   |
-| 1789   | Triangle Judgement                   | Easy       | [Solution](./solutions/1789)   |
-| 610    | Consecutive Numbers                  | Medium     | [Solution](./solutions/610)    |
-| 180    | Product Price at a Given Date        | Medium     | [Solution](./solutions/180)    |
-| 1164   | Last Person to Fit in the Bus        | Medium     | [Solution](./solutions/1164)   |
-| 1204   | Count Salary Categories              | Medium     | [Solution](./solutions/1204)   |
-| 1907   | Subqueries                           | Easy       | [Solution](./solutions/1907)   |
-| 1978   | Exchange Seats                       | Medium     | [Solution](./solutions/1978)   |
-| 626    | Movie Rating                         | Medium     | [Solution](./solutions/626)    |
-| 1341   | Restaurant Growth                    | Medium     | [Solution](./solutions/1341)   |
-| 1321   | Friend Requests II: Who Has the Most Friends | Medium | [Solution](./solutions/1321) |
-| 602    | Investments in 2016                  | Medium     | [Solution](./solutions/602)    |
-| 585    | Department Top Three Salaries        | Hard       | [Solution](./solutions/585)    |
-| 185    | Fix Names in a Table                 | Easy       | [Solution](./solutions/185)    |
-| 1667   | Patients With a Condition            | Easy       | [Solution](./solutions/1667)   |
-| 1527   | Delete Duplicate Emails              | Easy       | [Solution](./solutions/1527)   |
-| 196    | Second Highest Salary                | Medium     | [Solution](./solutions/196)    |
-| 176    | Group Sold Products By The Date      | Easy       | [Solution](./solutions/176)    |
-| 1484   | List the Products Ordered in a Period | Easy      | [Solution](./solutions/1484)   |
-| 1327   | Find Users With Valid E-Mails        | Easy       | [Solution](./solutions/1327)   |
-| 1517   | Count Subtrees With Max Distance Between Cities | Medium | [Solution](./solutions/1517) |
+| #   | Title                                                      | Difficulty | Solution |
+|-----|------------------------------------------------------------|------------|----------|
+| 1757| Recyclable and Low Fat Products                            | Easy       | [Solution](./1757_Recyclable_and_Low_Fat_Products) |
+| 584 | Find Customer Referee                                       | Easy       | [Solution](./584_Find_Customer_Referee) |
+| 595 | Big Countries                                               | Easy       | [Solution](./595_Big_Countries) |
+| 1148| Article Views I                                             | Easy       | [Solution](./1148_Article_Views_I) |
+| 1683| Invalid Tweets                                              | Easy       | [Solution](./1683_Invalid_Tweets) |
+| 1378| Replace Employee ID With The Unique Identifier              | Easy       | [Solution](./1378_Replace_Employee_ID_With_The_Unique_Identifier) |
+| 1068| Product Sales Analysis I                                    | Easy       | [Solution](./1068_Product_Sales_Analysis_I) |
+| 1581| Customer Who Visited but Did Not Make Any Transactions      | Easy       | [Solution](./1581_Customer_Who_Visited_but_Did_Not_Make_Any_Transactions) |
+| 197 | Rising Temperature                                         | Easy       | [Solution](./197_Rising_Temperature) |
+| 1661| Average Time of Process per Machine                         | Easy       | [Solution](./1661_Average_Time_of_Process_per_Machine) |
+| 577 | Employee Bonus                                              | Easy       | [Solution](./577_Employee_Bonus) |
+| 1280| Students and Examinations                                   | Easy       | [Solution](./1280_Students_and_Examination) |
+| 570 | Managers with at Least 5 Direct Reports                     | Medium     | [Solution](./570_Managers_with_At_Least_5_Direct_Reports) |
+| 1934| Confirmation Rate                                           | Medium     | [Solution](./1934_Confirmation_Rate) |
+| 620 | Not Boring Movies                                           | Easy       | [Solution](./620_Not_Boring_Movies) |
+| 1251| Average Selling Price                                       | Easy       | [Solution](./1251_Average_Selling_Price) |
+| 1075| Project Employees I                                         | Easy       | [Solution](./1075_Project_Employees_I) |
+| 1633| Percentage of Users Attended a Contest                      | Easy       | [Solution](./1633_Percentage_of_Users_Attended_a_Contest) |
+| 1211| Queries Quality and Percentage                              | Medium     | [Solution](./1211_Queries_Quality_and_Percentage) |
+| 1193| Monthly Transactions I                                      | Medium     | [Solution](./1193_Monthly_Transactions_I) |
+| 1174| Immediate Food Delivery II                                  | Medium     | [Solution](./1174_Immediate_Food_Delivery_II) |
+| 550 | Game Play Analysis IV                                       | Medium     | [Solution](./550_Game_Play_Analysis_IV) |
+| 2356| Number of Unique Subjects Taught by Each Teacher            | Easy       | [Solution](./2356_Number_of_Unique_Subjects_Taught_by_Each_Teacher) |
+| 1141| User Activity for the Past 30 Days I                        | Easy       | [Solution](./1141_User_Activity_for_the_Past_30_Days_I) |
+| 1070| Product Sales Analysis III                                  | Medium     | [Solution](./1070_Product_Sales_Analysis_III) |
+| 596 | Classes More Than 5 Students                                | Easy       | [Solution](./596_Classes_More_Than_5_Students) |
+| 1729| Find Followers Count                                        | Easy       | [Solution](./1729_Find_Followers_Count) |
+| 619 | Biggest Single Number                                       | Easy       | [Solution](./619_Biggest_Single_Number) |
+| 1045| Customers Who Bought All Products                           | Medium     | [Solution](./1045_Customers_Who_Bought_All_Products) |
+| 1731| The Number of Employees Which Report to Each Employee       | Easy       | [Solution](./1731_The_Number_of_Employees_Which_Report_to_Each_Employee) |
+| 1789| Primary Department for Each Employee                        | Easy       | [Solution](./1789_Primary_Department_for_Each_Employee) |
+| 610 | Triangle Judgement                                          | Easy       | [Solution](./610_Triangle_Judgement) |
+| 180 | Consecutive Numbers                                         | Medium     | [Solution](./180_Consecutive_Numbers) |
+| 1164| Product Price at a Given Date                               | Medium     | [Solution](./1164_Product_Price_at_a_Given_Date) |
+| 1204| Last Person to Fit in the Bus                               | Medium     | [Solution](./1204_Last_Person_to_Fit_in_the_Bus) |
+| 1907| Count Salary Categories                                     | Medium     | [Solution](./1907_Count_Salary_Categories) |
+| 1978| Employees Whose Manager Left the Company                    | Easy       | [Solution](./1978_Employees_Whose_Manager_Left_the_Company) |
+| 626 | Exchange Seats                                              | Medium     | [Solution](./626_Exchange_Seats) |
+| 1341| Movie Rating                                                | Medium     | [Solution](./1341_Movie_Rating) |
+| 1321| Restaurant Growth                                           | Medium     | [Solution](./1321_Restaurant_Growth) |
+| 602 | Friend Requests II: Who Has the Most Friends                | Medium     | [Solution](./602_Friend_Requests_II_Who_Has_the_Most_Friends) |
+| 585 | Investments in 2016                                         | Medium     | [Solution](./585_Investments_in_2016) |
+| 185 | Department Top Three Salaries                                | Hard       | [Solution](./185_Department_Top_Three_Salaries) |
+| 1667| Fix Names in a Table                                        | Easy       | [Solution](./1667_Fix_Names_in_a_Table) |
+| 1527| Patients With a Condition                                   | Easy       | [Solution](./1527_Patients_With_a_Condition) |
+| 196 | Delete Duplicate Emails                                     | Easy       | [Solution](./196_Delete_Duplicate_Emails) |
+| 176 | Second Highest Salary                                       | Medium     | [Solution](./176_Second_Highest_Salary) |
+| 1484| Group Sold Products By The Date                             | Easy       | [Solution](./1484_Group_Sold_Products_By_The_Date) |
+| 1327| List the Products Ordered in a Period                       | Easy       | [Solution](./1327_List_the_Products_Ordered_in_a_Period) |
+| 1517| Find Users With Valid E-Mails                               | Easy       | [Solution](./1517_Find_Users_With_Valid_E-Mails) |
+
 
 
 
